@@ -3,8 +3,8 @@
 Minimum.
 
 1. Create an array "Shopping list". Each element of the array is an object that contains the name of the product, the quantity and whether it is purchased or not, the price per unit, and the amount. Write several functions to work with such an array:
-    1.a. Display the entire list on the screen in such a way that the products that have not yet been purchased go first, and then those that have already been purchased.
-    1.b. Purchase a product. The function takes the name of the product and marks it as purchased.
+2. 1.a. Display the entire list on the screen in such a way that the products that have not yet been purchased go first, and then those that have already been purchased.
+3. 1.b. Purchase a product. The function takes the name of the product and marks it as purchased.
 
 Normal.
 
